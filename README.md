@@ -2,7 +2,7 @@
 
 ### Sobre mí :page_with_curl:
 >***Soy Programador Web Full Stack Junior, hice un curso en Digital House de la mano de la Fundación Formar y ahora en busca de mi
->primer empleo IT. Estoy capacitado para trabajar en equipo, con orden, responsabilidad y muchas ganar de nunca parar de aprender.
+>primer empleo IT. Estoy capacitado para trabajar en equipo, con orden, responsabilidad y muchas ganas de nunca parar de aprender.
 >Me gusta mucho el análisis y resolución de problemas, soy más del Backend que de Frontend pero me manejo en los dos.
 >Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre HTML, CSS, Javascript y otros.***
 
