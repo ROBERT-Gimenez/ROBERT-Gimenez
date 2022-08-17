@@ -21,7 +21,7 @@ Contacto 📮
 image
 Email : Robertgim37@gmail.com
 Gracias por pasarte, Saludos! 😄
-- 📫 How to reach me ... robertgim37@gmail.com
+
 
 <!---
 ROBERT-Gimenez/ROBERT-Gimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
