@@ -3,7 +3,7 @@
 ### Sobre mí :page_with_curl:
 >***Soy Programador Web Full Stack Junior, hice un curso en Digital House de la mano de la Fundación Formar y ahora en busca de mi
 >primer empleo IT. Estoy capacitado para trabajar en equipo, con orden, responsabilidad y muchas ganas de nunca parar de aprender.
->Me gusta mucho el análisis y resolución de problemas, soy más del Backend que de Frontend pero me manejo en los dos.
+>Me gusta mucho el análisis y resolución de problemas, Trabajo tanto en el frontend como el Backend.
 >Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre HTML, CSS, Javascript y otros.***
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
