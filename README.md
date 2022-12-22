@@ -1,10 +1,10 @@
 ## :wave: Robert Gimenez - @Robert
 
 ### Sobre mí :page_with_curl:
->***Soy Programador Web Full Stack Junior, hice un curso en Digital House de la mano de la Fundación Formar y ahora en busca de mi
->primer empleo IT. Estoy capacitado para trabajar en equipo, con orden, responsabilidad y adaptacion a los cambios.
->Me gusta mucho el análisis y resolución de problemas, Trabajo tanto en el frontend como el Backend.
->Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre HTML, CSS, Javascript y otros.***
+>***Soy Programador Web Full Stack Junior, realice el bootcamp de Digital House mediante la Fundación Formar y ahora estoy en busca de mi
+>primer empleo IT. Estoy capacitado para trabajar en equipo , ya que implementamos metodologias agiles durante todo el trayecto , manteniendo un orden, con mucha responsabilidad y mejorando la refactorizacion de codigo .
+>Me gusta mucho el análisis y resolución de problemas para poder mejorar la calidad del codigo y mantener una aplicacion limpia ,ademas de que Trabajo tanto en el frontend como el Backend ya que empezamos proyectos totalmente desde cero.
+>Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre Javascript , reactjs y sus librerias , actualmente estoy aprendiendo c# y .net(dotnet) para ampliar mas mis conocimientos , en un futuro me gustaria ver mejor python.
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
 
@@ -31,8 +31,9 @@
 > El mismo es un E-commerce para un negocio de Venta de Articulos para el Mundo del Ciclismo. Utilizamos una metodología de trabajo tipo SCRUM, en cada etapa del desarrollo teníamos
 > que aplicar lo aprendido durante el trayecto del curso a este proyecto organizándonos y asignándolos las tareas atrevés de Trello.***
 > 
-> ***Algunas de las tecnologías utilizadas en este proyecto son:  
-> HTML - CSS - JavaScript - Git - GitHub - NodeJS - Express - EJS - Sequelize - MySQL- Passport  ***
+> ***Algunas de las tecnologías y Herramientas con las que he trabajado :  
+> HTML5 - CSS - SASS - BOOTSTRAP - JAVASCRIPT - NODEJS - EXPRESS - EJS - SEQUELIZE -MYSQL - SQL- MONGODB - PASSPORT - REACTJS - REDUX -JSONAPIS - LIBRERÍAS NPM - AXIOS - FETCH - JEST - POSTMAN - TRELLO - GITHUB - SCRUM .
+  ***
 
 
 
