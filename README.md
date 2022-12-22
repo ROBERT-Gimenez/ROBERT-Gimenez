@@ -32,7 +32,7 @@
 > que aplicar lo aprendido durante el trayecto del curso a este proyecto organizándonos y asignándolos las tareas atrevés de Trello.***
 > 
 > ***Algunas de las tecnologías y Herramientas con las que he trabajado :  
-> HTML5 - CSS - SASS - BOOTSTRAP - JAVASCRIPT - NODEJS - EXPRESS - EJS - SEQUELIZE -MYSQL - SQL- MONGODB - PASSPORT - REACTJS - REDUX -JSONAPIS - LIBRERÍAS NPM - AXIOS - FETCH - JEST - POSTMAN - TRELLO - GITHUB - SCRUM .
+> HTML5 - CSS - SASS - BOOTSTRAP - JAVASCRIPT - NODEJS - EXPRESS - EJS - SEQUELIZE -MYSQL - SQL- MONGODB - PASSPORT - REACTJS - REDUX -JSON - APIS - LIBRERÍAS NPM - AXIOS - FETCH - JEST - POSTMAN - TRELLO - GITHUB - SCRUM .
   ***
 
 
