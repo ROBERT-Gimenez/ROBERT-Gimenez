@@ -2,7 +2,7 @@
 
 ### Sobre mí :page_with_curl:
 >***Soy Programador Web Full Stack Junior, realice el bootcamp de Digital House mediante la Fundación Formar.
-> Estoy capacitado para trabajar en equipo , ya que implementamos metodologias agiles durante todo el trayecto , manteniendo un orden, con mucha responsabilidad y mejorando la refactorizacion de codigo .
+> Estoy capacitado para trabajar en equipo , ya que implementamos metodologias agiles durante toda la cursada , manteniendo un orden, con mucha persistencia y mejorando la refactorizacion de codigo .
 >Me gusta mucho el análisis y resolución de problemas para poder mejorar la calidad del codigo y mantener una aplicacion limpia.
 >Trabajo tanto en el frontend como el Backend ya que empezamos proyectos totalmente desde cero.
 >Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre Javascript , reactjs y sus librerias , actualmente estoy aprendiendo c# y .net(dotnet) para ampliar mas mis conocimientos , en un futuro me gustaria ver mejor python.
