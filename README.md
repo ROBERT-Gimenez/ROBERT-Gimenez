@@ -1,11 +1,10 @@
 ## :wave: Robert Gimenez - @Robert
 
 ### Sobre mí :page_with_curl:
->***Soy Programador Web Full Stack Junior, realice el bootcamp de Digital House mediante la Fundación Formar.
-> Estoy capacitado para trabajar en equipo , ya que implementamos metodologias agiles durante toda la cursada , manteniendo un buen ambiente laboral,con respeto y mejorando continueamente la refactorizacion de codigo .
+>***Soy Full Stack Web Developer 🚀, realice el bootcamp de Digital House y un acelerado de Angular junto con Alkemy & Finnegans.
+> Estoy capacitado para trabajar en equipo , ya que implementamos metodologias agiles (SCRUM) durante toda la cursada , manteniendo simpre una buena comunicacion,con respeto y mejorando continueamente la refactorizacion de codigo .
 >Me gusta mucho el análisis y resolución de problemas para poder mejorar la calidad del codigo y mantener una aplicacion limpia.
->Trabajo tanto en el frontend como el Backend , me adapto a cualquier entorno de trabajo siempre que alla un buen ambiente de trabajo y respeto.
->Además del curso con Digital House hice cursos en Udemy , Google y G-Talent sobre Javascript , reactjs y sus librerias , sigo aprendiendo de forma autodidacta y ahora me encunetro realizando un acelerado de angular mediante alkemy con colaboracion de finnegans. 
+>Trabajo tanto en el frontend como el Backend , me adapto rapido , aplicando buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible .
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
 
 ### Lenguajes y herramientas :technologist:
