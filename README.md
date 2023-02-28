@@ -5,7 +5,8 @@
 > Estoy capacitado para trabajar en equipo ,ya que poseo experiencia en metodologias agiles (Scrum).
 >Me gusta mucho el análisis y resolución de problemas para poder mejorar la calidad del codigo y mantener una aplicacion limpia.
 >Trabajo tanto en el frontend como el Backend , me adapto rapido , aplicando buenas prácticas para trabajar colaborativamente, en equipo y
-> obtener el mejor resultado posible .
+> obtener el mejor resultado posible.
+> 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
 
 ### Lenguajes y herramientas :technologist:
