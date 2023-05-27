@@ -3,7 +3,7 @@
 ### Sobre mí :page_with_curl:
 >***Full Stack Web Developer 🚀.
 > Estoy capacitado para trabajar en equipo ,ya que poseo experiencia en metodologias agiles (Scrum).
->Trabajo tanto en el frontend como el Backend , aplicando buenas prácticas para trabajar colaborativamente y en equipo.
+>Trabajo tanto en el frontend como el Backend , aplicando buenas prácticas para trabajar colaborativamente en equipo.
 > 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
 
