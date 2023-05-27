@@ -1,7 +1,7 @@
 ## :wave: Robert Gimenez - @Robert
 
 ### Sobre mí :page_with_curl:
->***Soy Full Stack Web Developer 🚀, realice el bootcamp de Digital House y un acelerado de Angular junto con Alkemy & Finnegans.
+>***Full Stack Web Developer 🚀.
 > Estoy capacitado para trabajar en equipo ,ya que poseo experiencia en metodologias agiles (Scrum).
 >Me gusta mucho el análisis y resolución de problemas para poder mejorar la calidad del codigo y mantener una aplicacion limpia.
 >Trabajo tanto en el frontend como el Backend ,me adapto rapido , aplicando buenas prácticas para trabajar colaborativamente, en equipo y
