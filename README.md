@@ -12,14 +12,13 @@ Tengo experiencia trabajando en equipos colaborativos bajo metodologías ágiles
 🚀 Me enfoco en construir soluciones escalables, resilientes y bien diseñadas.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es&hide_border=true&rank_icon=github)
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERT-Gimenez&layout=compact&theme=tokyonight&locale=es&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ROBERT-Gimenez&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
