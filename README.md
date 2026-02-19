@@ -1,44 +1,77 @@
-## :wave: Robert Gimenez - @Robert
+# 👋 Robert Gimenez  
+### Backend Go Developer | Microservices | WebSockets | Cloud
 
-### Sobre mí :page_with_curl:
->***Full Stack Web Developer 🚀.
-> Estoy capacitado para trabajar en equipo ,ya que poseo experiencia en metodologias agiles (Scrum).
->Trabajo tanto en el frontend como el Backend , aplicando buenas prácticas para trabajar colaborativamente en equipo.
-> 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es)
+---
 
-### Lenguajes y herramientas :technologist:
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+## 🧠 Sobre mí
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERT-Gimenez&layout=compact&theme=tokyonight&locale=es)](https://github.com/ROBERT-Gimenez/github-readme-stats)
+Soy Full Stack Developer con fuerte orientación al **Backend en Go**, especializado en diseño de microservicios, WebSockets y sistemas en tiempo real.
 
-### Trabajo práctico integrador (Aplicación Web - E-commerce "BikesMasters")
-- [Link del repositorio](https://github.com/BrianFloresOk/grupo_11_bikesmasters)
-> ***Este es el proyecto integrador grupal que desarrollamos y presentamos al final de curso de Digital House con la Fundación Formar, junto a mi compañero
-> [Brian Flores](https://github.com/BrianFloresOk).
-> El mismo es un E-commerce para un negocio de Venta de Articulos para el Mundo del Ciclismo. Utilizamos una metodología de trabajo tipo SCRUM, en cada etapa del desarrollo teníamos
-> que aplicar lo aprendido durante el trayecto del curso a este proyecto organizándonos y asignándolos las tareas atrevés de Trello.***
-> 
-> ***Algunas de las tecnologías y Herramientas con las que he trabajado :  
-> HTML5 - CSS - SASS - BOOTSTRAP - JAVASCRIPT - NODEJS - EXPRESS - EJS - SEQUELIZE -MYSQL - SQL- MONGODB - PASSPORT - REACTJS - REDUX -JSON - APIS - LIBRERÍAS NPM - AXIOS - FETCH - JEST - POSTMAN - TRELLO - GITHUB - SCRUM .
-  ***
+Tengo experiencia trabajando en equipos colaborativos bajo metodologías ágiles (Scrum), aplicando buenas prácticas de arquitectura, testing y clean code.
 
+🚀 Me enfoco en construir soluciones escalables, resilientes y bien diseñadas.
 
+---
 
-### Contacto :postbox:
-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-gimenez-32b87b229/)
-- ***Email : Robertgim37@gmail.com***
+## 📊 GitHub Stats
 
-### Gracias por pasarte, Saludos! :smile:
+<div align="center">
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&locale=es&hide_border=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERT-Gimenez&layout=compact&theme=tokyonight&locale=es&hide_border=true)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🛒 Proyecto Integrador – E-commerce "BikesMasters"
+
+🔗 [Repositorio del proyecto](https://github.com/BrianFloresOk/grupo_11_bikesmasters)
+
+Proyecto grupal desarrollado como trabajo final en Digital House (Fundación Formar).
+
+Implementamos un E-commerce para la venta de artículos de ciclismo, aplicando metodología Scrum y organización de tareas mediante Trello.
+
+### Tecnologías utilizadas:
+HTML5 · CSS · SASS · Bootstrap · JavaScript · Node.js · Express · EJS · Sequelize · MySQL · MongoDB · React · Redux · Passport · Jest · APIs REST · GitHub
+
+---
+
+## 🌐 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert_Gimenez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-gimenez-32b87b229/)
+
+📧 **Email:** robertgim37@gmail.com
+
+</div>
+
+---
+
+✨ Gracias por visitar mi perfil.
