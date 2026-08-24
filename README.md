@@ -13,9 +13,16 @@ Tengo experiencia trabajando en equipos colaborativos bajo metodologías ágiles
 
 ---
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROBERT-Gimenez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERT-Gimenez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ROBERT-Gimenez&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
